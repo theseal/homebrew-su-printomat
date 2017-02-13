@@ -12,3 +12,6 @@ brew cask install printomat2
 ```
 
 * When you print the first time the printing will freeze. When this happens open the print queue from the dock, select the print job and click Resume.
+  * A login window pops up were you need to enter:
+    * Name: winadsu\username (for your university account)
+    * Password: The password for your university account      
